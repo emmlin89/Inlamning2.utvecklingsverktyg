@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'25'
+-sourcepath
+'C:/Users/lindb/IdeaProjects/library1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lindb/IdeaProjects/library1/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+org.example
+ui
+utilities
+C:\Users\lindb\IdeaProjects\library1\src\main\java = 1795434489629
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\allclasses-index.html = 1795439716909
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\allpackages-index.html = 1795439716914
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\element-list = 1795439716647
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\help-doc.html = 1795439716976
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\index-all.html = 1795439716963
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\index.html = 1795439716882
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\member-search-index.js = 1795439716926
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\module-search-index.js = 1795439716917
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\overview-summary.html = 1795439716970
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\overview-tree.html = 1795439716875
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\package-search-index.js = 1795439716919
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\search.html = 1795439716967
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\serialized-form.html = 1795439716742
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\tag-search-index.js = 1795439716930
+C:\Users\lindb\IdeaProjects\library1\target\reports\apidocs\type-search-index.js = 1795439716923

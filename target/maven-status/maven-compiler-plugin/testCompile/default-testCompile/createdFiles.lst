@@ -1,0 +1,4 @@
+models\BookTest.class
+models\LoanTest.class
+models\BookCatalogTest.class
+models\CustomerTest.class
