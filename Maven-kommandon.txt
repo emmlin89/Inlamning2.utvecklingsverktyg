@@ -1,5 +1,5 @@
-mvn compile- kompilerar programmets Java-kod till .class-filer
-mvn clean- Tar bort target, inklusive de kompilerade tesfilerna
+mvn compile- kompilerar programmets Java-kod till .class-filer.
+mvn clean- Tar bort target, inklusive de kompilerade .class tesfilerna.
 mvn javadoc - Skapar javadoc som HTML
 mvn test - Kör Junit-testerna.
 mvn package- Bygger projektet, kör testerna och skapar JAR-filen.
